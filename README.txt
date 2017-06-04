@@ -1,1 +1,1 @@
-My webpage for teacozy
+My webpage for tea cozy
