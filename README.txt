@@ -1,1 +1,1 @@
-Hello Git and GitHub
+My webpage for teacozy
